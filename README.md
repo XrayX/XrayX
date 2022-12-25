@@ -37,7 +37,7 @@
 </br>
 
 <a href="https://discord.com/users/818236033413414952" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/818236033413414952.png"/></a>
-<a href="https://discord.com/users/818236033413414952" target="_blank"><img hight="20" width="400" alt="GIF" align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9100F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Xray;Add+Me+!"/></a>
+<a href="https://discord.com/users/818236033413414952" target="_blank"><img hight="20" width="400" alt="GIF" align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9100F7&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Xray;Add+Me+!"/></a>
 
 <details>
   <summary>Github Stats</summary>
