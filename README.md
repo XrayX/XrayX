@@ -1,7 +1,7 @@
 <a href="https://discord.com/users/818236033413414952"> <img  align="right" src="https://lanyard.cnrad.dev/api/818236033413414952" />
 ### Now Playing 🎧
 
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq)
 
 
 
