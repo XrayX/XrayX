@@ -1,7 +1,9 @@
-<a href="https://discord.com/users/818236033413414952"> <img  align="right" src="https://lanyard.cnrad.dev/api/818236033413414952" alt="My Discord Account!" />
+<a href="https://discord.com/users/818236033413414952"> <img  align="right" src="https://lanyard.cnrad.dev/api/818236033413414952" />
 ### Now Playing 🎧
 
-[<img src="https://avatars.githubusercontent.com/u/251374?s=280&v=4" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
+
+
 
 
 
@@ -34,7 +36,7 @@
 - 🐧 (Professional XD)
 </br>
 
-<a href="https://discord.gg/11pm" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/818236033413414952.png"/></a>
+<a href="https://discord.com/users/818236033413414952" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/818236033413414952.png"/></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1204FF&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Xray+;Add+Me+!" alt="Typing SVG" /></a>
 
 <details>
