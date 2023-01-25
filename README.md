@@ -31,7 +31,6 @@
 ### - Hobbies : 
 - 🐧 Gaming Addict
 - 🐧 Watching Movies & Series
-- 🐧 Reading Light Novels
 - 🐧 Knack die Muschi deiner Mutter
 - 🐧 (Professional XD)
 </br>
