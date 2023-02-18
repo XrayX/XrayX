@@ -8,7 +8,7 @@
 <h3>Reach me at my social media accounts:</h3>
 
  <p align="left">
- <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
