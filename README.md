@@ -29,8 +29,7 @@
 <details>
   <summary>My Github Stats</summary>
   
-  [![My GitHub stats](https://github-readme-stats.vercel.app/apiXrayX=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/XrayX=XrayX&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=78aad8&text_color=f5f5f5)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiXrayXanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 # Languages and Tools 🐍 :
