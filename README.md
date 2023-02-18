@@ -1,5 +1,7 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!, nice to see you.</h1>
+<h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Xray </h1>
+
+<h2 align="center"> A passionate self-taught developer, designer and freelancer.</h2>
 
 <p align="left">
 <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,11 +11,6 @@
 
 <br />
 
-
-# About ME 💬 :
-
-### - I'm 18 years old Developper & Designer from Morocco.
-<br>
 
 ### - Learning :
 - 📍 Data Structures & Algorithms
