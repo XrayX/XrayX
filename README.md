@@ -1,22 +1,18 @@
 
-<h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Xray </h1>
+<h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm 𝗫𝗿𝗮𝘆 </h1>
 
 <h2 align="center"> A passionate self-taught developer, designer and freelancer.</h2>
-
 <br>
-
 <h3>Reach me at my social media accounts:</h3>
 
- <p align="left">
- <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
+<a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a style="font-style: oblique;"> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧</P>
 
+<a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a> 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢
 
+<a href="https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/797926066131304449.webp?size=128"></a> 𝙎𝙥𝙤𝙩𝙞𝙛𝙮
 
-<a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/797926066131304449.webp?size=128"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a> 𝘿𝙞𝙨𝙘𝙤𝙧𝙙
 
 <br />
 
