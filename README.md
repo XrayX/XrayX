@@ -1,3 +1,12 @@
+<a href="https://discord.com/users/818236033413414952"> <img  align="right" src="https://lanyard.cnrad.dev/api/818236033413414952" title="My Status" />
+### Now Playing 🎧
+
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq)
+
+
+
+
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!, nice to see you.</h1>
 
 <p align="left">
@@ -28,10 +37,9 @@
 
 <details>
   <summary>My Github Stats</summary>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiXrayXanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
-
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=XrayX)](https://github.com/XrayX/github-readme-stats)
+  ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XrayX&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=78aad8&text_color=f5f5f5)
 </details>
 
 # Languages and Tools 🐍 :
