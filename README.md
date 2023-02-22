@@ -4,19 +4,19 @@
 
  ## To know a little more about me...
 
-- Learning 
+### - Learning 
 - 📍 Data Structures & Algorithms
 - 📍 Cyber Security
 - 📍 Web&mobile Development
 
-- Hobbies : 
+### - Hobbies : 
 - 📍 Gaming Addict
 - 📍 Watching Movies & Series
 - 📍 Knack die Muschi deiner Mutter
 - 📍 (Professional XD)
 
 
-### Connect with me 
+## Connect with me 
 <p align="left">
 <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a>
 <a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a> 
