@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello World! </h1>
 <p>I am a 19years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, web, and everything in-between. I love to learn and contribute in any and every possible way.</P>
 <br>
-<h2 style="font-style:initial">To know a little more about me...</h2>
+<h2 style="font-style:oblique">To know a little more about me...</h2>
 
 ### - Learning :
 - 📍 Data Structures & Algorithms
