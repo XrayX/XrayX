@@ -2,9 +2,9 @@
  <h1 align="center">👋 Hello World! </h1>
 <p align="center">I am a 19years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, web, and everything in-between. I love to learn and contribute in any and every possible way.</p>
 
-# <h1> To know a little more about me... </h1>
+<h1> To know a little more about me... </h1>
 
-<h2> Learning : M</h2>
+<h2> Learning :</h2>
 - 📍 Data Structures & Algorithms
 - 📍 Cyber Security
 
