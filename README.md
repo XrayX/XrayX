@@ -29,10 +29,11 @@
 <details>
   <summary>General github stats</summary>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XrayX)](https://github.com/XrayX/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XrayX&theme=radical" alt="Xray" /></p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XrayX)](https://github.com/XrayX/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XrayX&show_icons=true&locale=en&layout=compact&theme=radical" alt="Xray" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=XrayX&show_icons=true&locale=en&theme=radical" alt="Xray" /></p>
 </details>
 
 ## Languages and Tools 🐍 :
