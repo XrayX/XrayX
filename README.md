@@ -26,7 +26,7 @@
 
 <br>
 
-### <details>
+<details>
   <summary>General github stats</summary>
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XrayX)](https://github.com/XrayX/github-readme-stats)
