@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hello World! </h1>
 <p>I am a 19years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, web, and everything in-between. I love to learn and contribute in any and every possible way.</P>
-<br>
+
 <h2>To know a little more about me...</h2>
 
 ### - Learning :
@@ -13,7 +13,6 @@
 - 📍 Watching Movies & Series
 - 📍 Knack die Muschi deiner Mutter
 - 📍 (Professional XD)
-
 <h3>Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a>
