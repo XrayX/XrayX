@@ -1,21 +1,8 @@
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>👋 Hello World! </h1>
-
-<h2 align="center"> A passionate self-taught developer, designer & freelancer.</h2>
+<h1 align="center">👋 Hello World! </h1>
+<p>I am a 19years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, web, and everything in-between. I love to learn and contribute in any and every possible way.</P>
 <br>
-<h3>Reach me at my social media accounts:</h3>
-
-<p align="left">
-<a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a style="font-style: oblique;"> 𝙏𝙬𝙞𝙩𝙩𝙚𝙧</P>
-
-<a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a> 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢
-
-<a href="https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/797926066131304449.webp?size=128"></a> 𝙎𝙥𝙤𝙩𝙞𝙛𝙮
-
-<a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a> 𝘿𝙞𝙨𝙘𝙤𝙧𝙙
-
-<br />
-
+<h2>To know a little more about me...</h2>
 
 ### - Learning :
 - 📍 Data Structures & Algorithms
@@ -26,13 +13,25 @@
 - 📍 Watching Movies & Series
 - 📍 Knack die Muschi deiner Mutter
 - 📍 (Professional XD)
-</br>
 
+<br>
+<h3>Connect with me</h3>
+
+<p align="left">
+<a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a style="font-style: oblique;"></P>
+
+<a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a> 
+
+<a href="https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/797926066131304449.webp?size=128"></a> 
+
+<a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
+
+<br />
 
 <details>
-  <summary>My Github Stats</summary>
+  <summary>General github stats</summary>
   
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=XrayX)](https://github.com/XrayX/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XrayX)](https://github.com/XrayX/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XrayX)](https://github.com/XrayX/github-readme-stats)
 
