@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello World! </h1>
 <p>I am a 19years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, web, and everything in-between. I love to learn and contribute in any and every possible way.</P>
 <br>
-<h2 style="font-style: italic;">To know a little more about me...</h2>
+<h2>To know a little more about me...</h2>
 
 ### - Learning :
 - 📍 Data Structures & Algorithms
@@ -13,7 +13,6 @@
 - 📍 Watching Movies & Series
 - 📍 Knack die Muschi deiner Mutter
 - 📍 (Professional XD)
-
 <br>
 <h3>Connect with me</h3>
 
@@ -24,7 +23,7 @@
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
 <br>
 <details>
-  <summary>General github stats</summary>
+  <summary style="font-style: italic;">General github stats</summary>
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XrayX)](https://github.com/XrayX/github-readme-stats)
 
