@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello World! </h1>
 <p align="center">I am a 19years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, and everything in-between. I love to learn and contribute in any and every possible way.</p>
 
- ## To know a little more about me...
+## To know a little more about me...
 
 ### - Learning 
 - 📍 Data Structures & Algorithms
@@ -25,6 +25,7 @@
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
 
 <br>
+
 <details>
   <summary>General github stats</summary>
   
