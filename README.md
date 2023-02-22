@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm 𝗫𝗿𝗮𝘆 </h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 👋 Hello World! </h1>
 
 <h2 align="center"> A passionate self-taught developer, designer & freelancer.</h2>
 <br>
