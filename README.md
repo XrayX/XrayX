@@ -1,20 +1,19 @@
 
- <h1 align="center">👋 Hello World! </h1>
+<h1 align="center">👋 Hello World! </h1>
 <p align="center">I am a 19years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, web, and everything in-between. I love to learn and contribute in any and every possible way.</p>
 
-<h1> To know a little more about me... </h1>
+# To know a little more about me...
 
-<h2> Learning :</h2>
+<h2> Learning : M</h2>
 - 📍 Data Structures & Algorithms
 - 📍 Cyber Security
 
-<h2> Hobbies : </h2>
+# - Hobbies : 
 - 📍 Gaming Addict
 - 📍 Watching Movies & Series
 - 📍 Knack die Muschi deiner Mutter
 - 📍 (Professional XD)
-
-<h2> Connect with me </h2>
+# <h2>Connect with me </h2>
 <p align="left">
 <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a>
 <a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a> 
@@ -30,7 +29,7 @@
 
 </details>
 
-<h2> Languages and Tools 🐍 : </h2>
+# Languages and Tools 🐍 :
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="25px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
