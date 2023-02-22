@@ -25,8 +25,7 @@
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
 
 <br>
-
-## <details>
+<details>
   <summary>General github stats</summary>
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XrayX)](https://github.com/XrayX/github-readme-stats)
