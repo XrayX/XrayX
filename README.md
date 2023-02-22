@@ -13,7 +13,7 @@
 - 📍 Watching Movies & Series
 - 📍 Knack die Muschi deiner Mutter
 - 📍 (Professional XD)
-
+<br>
 <h3>Connect with me</h3>
 
 <p align="left">
@@ -22,13 +22,13 @@
 <a href="https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/797926066131304449.webp?size=128"></a> 
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
 <br>
+
 <details>
   <summary style="font-style: italic;">General github stats</summary>
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XrayX)](https://github.com/XrayX/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XrayX)](https://github.com/XrayX/github-readme-stats)
-
 
 </details>
 
