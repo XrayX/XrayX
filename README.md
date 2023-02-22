@@ -27,11 +27,11 @@
 
 ## General github stats
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XrayX&theme=transparent " alt="Xray" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XrayX&theme=transparent" alt="Xray" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XrayX&show_icons=true&locale=en&layout=compact&theme=transparent " alt="Xray" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XrayX&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Xray" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=XrayX&show_icons=true&locale=en&theme=transparent " alt="Xray" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=XrayX&show_icons=true&locale=en&theme=transparent" alt="Xray" /></p>
 </details>
 
 
