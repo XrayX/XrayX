@@ -22,9 +22,7 @@
 <a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a> 
 <a href="https://open.spotify.com/user/4et0hj6bcrfm59jazyqp2dyyq" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/797926066131304449.webp?size=128"></a> 
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
-
-<br />
-
+<br>
 <details>
   <summary>General github stats</summary>
   
