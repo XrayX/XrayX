@@ -4,10 +4,11 @@
 
  ## To know a little more about me...
 
-<h2>- Learning :</h2>
+- Learning 
 - 📍 Data Structures & Algorithms
 - 📍 Cyber Security
-<h2>- Hobbies : </h2>
+
+- Hobbies : 
 - 📍 Gaming Addict
 - 📍 Watching Movies & Series
 - 📍 Knack die Muschi deiner Mutter
