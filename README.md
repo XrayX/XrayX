@@ -4,17 +4,17 @@
 
  ## To know a little more about me...
 
-<h3>- Learning 
+- Learning 
 - 📍 Data Structures & Algorithms
 - 📍 Cyber Security
 - 📍 Web&mobile Development
-<br>
+
 - Hobbies : 
 - 📍 Gaming Addict
 - 📍 Watching Movies & Series
 - 📍 Knack die Muschi deiner Mutter
 - 📍 (Professional XD)
-</h3>
+
 
 ### Connect with me 
 <p align="left">
