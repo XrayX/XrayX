@@ -7,7 +7,8 @@
 <h3>- Learning 
 - 📍 Data Structures & Algorithms
 - 📍 Cyber Security
-
+- 📍 Web&mobile Development
+<br>
 - Hobbies : 
 - 📍 Gaming Addict
 - 📍 Watching Movies & Series
