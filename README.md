@@ -1,14 +1,14 @@
 
 <h1 align="center">👋 Hello World! </h1>
-<p align="center">I am a 19years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, and everything in-between. I love to learn and contribute in any and every possible way.</p>
+<p align="center">I am a 18years old, mostly self taught, developer , designer & freelancer from morocco, I'm passionate about software engineering, and everything in-between. I love to learn and contribute in any and every possible way.</p>
 
 ## To know a little more about me...
 
 ### - Learning 
 - 📍 Data Structures & Algorithms
 - 📍 Cyber Security
-- 📍 Web&mobile Development
-
+- 📍 Machine Learning
+- 📍 Software Engineering
 ### - Hobbies : 
 - 📍 Gaming Addict
 - 📍 Watching Movies & Series
