@@ -22,8 +22,8 @@
 <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a>
 <a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a> 
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
-<a href="https://dev.to/xray" target="_blank"><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png"></a>
-<a href="mailto:xraythereal@gmail.com" target="_blank"><img height="30" src="https://freesvg.org/img/Mail-Icon-White-on-Black.png"></a>
+<a href="https://dev.to/xray" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"></a>
+<a href="mailto:xraythereal@gmail.com" target="_blank"><img height="30" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png"></a>
 <br>
 
 ## Languages and Tools 🐍 
