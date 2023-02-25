@@ -36,7 +36,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"><img align="left" alt="Css" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git/git.svg"></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="25px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"></a>
 
 
 
