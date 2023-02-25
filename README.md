@@ -35,6 +35,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="Html" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"><img align="left" alt="Css" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Css" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Css" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git/git.svg"></a>
 
 
 
