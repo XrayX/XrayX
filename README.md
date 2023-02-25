@@ -22,6 +22,7 @@
 <a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202274242600.gif?size=128"></a>
 <a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/912006202207113226.gif?size=128"></a> 
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
+<a href="https://dev.to/xray" target="_blank"><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png"></a>
 <br>
 
 ## Languages and Tools 🐍 
@@ -42,14 +43,6 @@
 <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwizwL6xyrH9AhWCjFEKHW5sBTcYABAAGgJ3cw&ohost=www.google.com&cid=CAESa-D2PYiRPoe5xI8qvQM4PRaXJunTsR28MANAptPmW19XEhmry9WMXLHw3aUJSwrf6gduuO65eKB73da3135Oht0Ez7lObv_8oZO8NBUUuTRltQMuE8tDwo1v2XAF61AYwvOa6AQC9ZWll89w&sig=AOD64_1i-p_ueS6c0ZRVCT2jPQBaXEKhwA&q&adurl&ved=2ahUKEwjB_LWxyrH9AhUsh_0HHQo3Aj8Q0Qx6BAgAEAE" target="_blank"><img align="left" alt="Adobe Illustrator" height ="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg"></a>
 <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiInfSEy7H9AhWajWgJHbaFChEYABAAGgJ3Zg&ohost=www.google.com&cid=CAESa-D2dAyBNZFGO3AFHr_AcfBiCugRBQv-NT1TybJrxDtHgf9v6EiMUb2x0tg4ereYMIaBMZRt3T2tQAn9eW1jV1fsswJU9H6BRWurYZ4BTk3fmguP915B14Q5sz1NpR0Q-fyQjAe713QF-or1&sig=AOD64_0YmBMKHsW8z1VI31HwuPIZZcehzw&q&adurl&ved=2ahUKEwjt4euEy7H9AhUGgf0HHQE8C_oQ0Qx6BAgAEAE" target="_blank"><img align="left" alt="Adobe Premiere Pro" height ="25px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-premiere-pro-4238649-3516522.png?f=avif&w=128"></a>
 <a href="https://filezilla-project.org/" target="_blank"><img align="left" alt="FileZilla" height ="25px" src="https://icons.iconarchive.com/icons/mybaco/baco-flurry-2/128/Filezilla-1-icon.png"></a>
-
-
-
-
-
-
-
-
 </p>
 <br>
 
