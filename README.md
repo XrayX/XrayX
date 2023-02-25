@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://dev.to/xray" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"></a>
 <a href="mailto:xraythereal@gmail.com" target="_blank"><img height="30" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png"></a>
-<a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk"></a>
-<a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png"></a> 
+<a href="https://twitter.com/xray4reall" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"></a>
+<a href="https://www.instagram.com/rynnxm/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a> 
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"></a>
 <br>
 
