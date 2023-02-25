@@ -24,6 +24,10 @@
 <a href="https://discord.com/users/818236033413414952" target="_blank"><img height="30" src="https://cdn.discordapp.com/emojis/772089044494188575.gif?size=128"></a>
 <br>
 
+## Languages and Tools 🐍 
+<a hrer="https://www.python.org/"> </a>
+
+
 ## General github stats
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XrayX&theme=algolia" alt="Xray" /></p>
