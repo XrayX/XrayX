@@ -37,6 +37,11 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height ="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="25px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"></a>
+<a href="https://www.photoshop.com/en" target="_blank"><img align="left" alt="Adobe Photoshop" height ="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" alt="Adobe XD" height ="25px" src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667"></a>
+<a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwizwL6xyrH9AhWCjFEKHW5sBTcYABAAGgJ3cw&ohost=www.google.com&cid=CAESa-D2PYiRPoe5xI8qvQM4PRaXJunTsR28MANAptPmW19XEhmry9WMXLHw3aUJSwrf6gduuO65eKB73da3135Oht0Ez7lObv_8oZO8NBUUuTRltQMuE8tDwo1v2XAF61AYwvOa6AQC9ZWll89w&sig=AOD64_1i-p_ueS6c0ZRVCT2jPQBaXEKhwA&q&adurl&ved=2ahUKEwjB_LWxyrH9AhUsh_0HHQo3Aj8Q0Qx6BAgAEAE" target="_blank"><img align="left" alt="Adobe Illustrator" height ="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg"></a>
+
+
 
 
 
