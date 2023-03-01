@@ -8,7 +8,6 @@
 - 📍 Data Structures & Algorithms
 - 📍 Cyber Security
 - 📍 Machine Learning
-- 📍 Software Engineering
 ### - Hobbies : 
 - 📍 Gaming Addict
 - 📍 Watching Movies & Series
